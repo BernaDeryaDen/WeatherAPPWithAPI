@@ -21,6 +21,7 @@ body {
 }
 .header {
   padding: 50px 20px 30px 20px;
+  margin-top: 15vh;
 }
 .header h1 {
   font-size: 50px;
